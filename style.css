@@ -1,0 +1,27 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: #0020F4;
+    height: 388px;
+}
+header img{
+    /* border: 3px solid black; */
+    margin-left: 240px;
+    margin-top: 40px;
+}
+.headernav{
+    border: 3px solid black;
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.headercontact{
+    border: 3px solid black;
+    color: black;
+    border-radius: 28px;
+    width: 160px;
+    height: 55px;
+}
