@@ -92,7 +92,19 @@ header img{
     width: 50%;
     margin: 0 auto;
 }
-
-
-
+.more-info-border {
+    border: 3px solid black;
+    width: 341px;
+    height: 55px;
+    border-radius: 28px;
+    background: #0A22F4;
+    margin-top: 58px;
+    padding-top: 18px;
+    padding-bottom: 18px;   
+}
+.more-info {
+    color: white;
+    text-align: center;
+    padding-bottom: 18px;   
+}
 
