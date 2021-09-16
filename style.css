@@ -6,18 +6,18 @@
 }
 header{
     display: flex;
-    border: 3px solid red;
+    /* border: 3px solid red; */
     background-color: #0020F4;
     height: 388px;
 }
 header img{
-    border: 3px solid black;
+    /* border: 3px solid black; */
     margin-left: 240px; 
     margin-top: 40px;
     margin-right: 250px;
 }
 .first-logo{
-    border: 3px solid red;
+    /* border: 3px solid red; */
 }
 .navnav div ul li {
    /* float: right; */
@@ -26,12 +26,12 @@ header img{
     padding: 0;   
 }
 .divdviv{
-    border: 3px solid red;
+    /* border: 3px solid red; */
     float: right;
     margin-top: 64px;
 }
 .divdviv ul li a {
-    border: 3px solid red;
+    /* border: 3px solid red; */
     color: white;
     font-size: 16px;     
 }
@@ -46,7 +46,7 @@ header img{
     color: #171717;
 }
 .building1{
-    border: 3px solid white;
+    /* border: 3px solid white; */
     height: 600px;
     display: block;
     margin: 0 auto;
@@ -55,7 +55,7 @@ header img{
     margin-bottom: 30px;
 }
 .building-under{
-    border: 3px solid red;
+    /* border: 3px solid red; */
     height: 33px;
     margin-top: 30px;
     
@@ -65,46 +65,83 @@ header img{
     width: 70%;
 
 }
-/* .imglist img{
-    border: 3px solid red;
-    border-radius: 28px ;
-    margin-top: 60px;
-    margin-left: 225px;
-    width: 150px;
-   display: flex;
-
-} */
-
 .imglist {
     /* border: 3px solid black; */
     width: 70%;
     display: flex;
     margin: 0 auto;
     margin-top: 60px;
-    margin-bottom: 60px;
-   
+    margin-bottom: 60px;  
 }
 .midimage {
     margin-right: 1px;
 }
 .text1{
-    border: 3px solid black;
+    /* border: 3px solid black; */
     width: 50%;
     margin: 0 auto;
 }
 .more-info-border {
-    border: 3px solid black;
+    /* border: 3px solid black; */
     width: 341px;
     height: 55px;
     border-radius: 28px;
     background: #0A22F4;
     margin-top: 58px;
     padding-top: 18px;
-    padding-bottom: 18px;   
+    margin-bottom: 100px;    
 }
 .more-info {
     color: white;
     text-align: center;
-    padding-bottom: 18px;   
+    
+/* this is footer styles       */
+
 }
+footer {
+    /* border: 3px solid black;   */
+    background-color : #0A22F4;
+    height: 200px;
+}
+.footerdiv{
+    /* border: 3px solid black;   */
+    display: inline-block;
+    height: 40px;
+    display: flex;
+    color: white;
+    margin-left: 20px;
+}
+.allrights-border{
+    /* border: 3px solid black;   */
+    margin-left: 120px;
+    margin-top: 140px;
+}
+.made-border{
+    /* border: 3px solid black;  */
+    margin-top: 130px;
+    margin-left: 600px;
+}
+.smartweb{
+    /* border: 3px solid black;  */
+    margin-top: 130px;
+    margin-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
